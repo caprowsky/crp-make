@@ -11,7 +11,7 @@ projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "1.6"
 
 projects[autoassignrole][subdir] = "contrib"
-projects[autoassignrole][version] = "1.2"
+projects[autoassignrole][version] = "2.0-beta1"
 
 projects[auto_nodetitle][subdir] = "contrib"
 projects[auto_nodetitle][version] = "1.2"
@@ -23,13 +23,16 @@ projects[button_field][subdir] = "contrib"
 projects[button_field][version] = "1.0-beta2"
 
 projects[cck][subdir] = "contrib"
-projects[cck][version] = "2.8"
+projects[cck][version] = "2.9"
 
 projects[computed_field][subdir] = "contrib"
 projects[computed_field][version] = "1.0-beta4"
 
 projects[content_complete][subdir] = "contrib"
 projects[content_complete][version] = "1.4"
+
+projects[content_profile][subdir] = "contrib"
+projects[content_profile][version] = "1.0"
 
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.0-beta3"
@@ -82,6 +85,9 @@ projects[link][version] = "2.9"
 projects[location][subdir] = "contrib"
 projects[location][version] = "3.1"
 
+projects[logintoboggan][subdir] = "contrib"
+projects[logintoboggan][version] = "1.8"
+
 projects[multistep][subdir] = "contrib"
 projects[multistep][version] = "1.5"
 
@@ -98,7 +104,10 @@ projects[role_theme_switcher][subdir] = "contrib"
 projects[role_theme_switcher][version] = "1.6"
 
 projects[rules][subdir] = "contrib"
-projects[rules][version] = "1.3"
+projects[rules][version] = "1.4"
+
+projects[rss_permissions][subdir] = "contrib"
+projects[rss_permissions][version] = "1.1"
 
 projects[securepages][subdir] = "contrib"
 projects[securepages][version] = "1.8"
@@ -116,7 +125,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.15"
 
 projects[unique_field][subdir] = "contrib"
-projects[unique_field][version] = "1.2"
+projects[unique_field][version] = "1.4"
 
 projects[views_attach][subdir] = "contrib"
 projects[views_attach][version] = "2.2"
