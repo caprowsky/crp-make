@@ -37,6 +37,9 @@ projects[content_profile][version] = "1.0"
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.0-beta3"
 
+projects[custom_breadcrumbs][subdir] = "contrib"
+projects[custom_breadcrumbs][version] = "2.0-rc1"
+
 projects[data][subdir] = "contrib"
 projects[data][version] = "1.0-alpha11"
 
@@ -55,8 +58,14 @@ projects[features][version] = "1.0"
 projects[feeds][subdir] = "contrib"
 projects[feeds][version] = "1.0-beta10"
 
+projects[formfilter][subdir] = "contrib"
+projects[formfilter][version] = "1.0"
+
 projects[feeds_xpathparser][subdir] = "contrib"
 projects[feeds_xpathparser][version] = "1.10"
+
+projects[front][subdir] = "contrib"
+projects[front][version] = "1.2"
 
 projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "1.0-alpha3"
