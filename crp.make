@@ -10,6 +10,12 @@ projects[ajax_trigger][version] = "1.0-beta1"
 projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "1.6"
 
+projects[autoassignrole][subdir] = "contrib"
+projects[autoassignrole][version] = "1.2"
+
+projects[auto_nodetitle][subdir] = "contrib"
+projects[auto_nodetitle][version] = "1.2"
+
 projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][version] = "2.4"
 
