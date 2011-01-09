@@ -4,11 +4,17 @@ core = 6.x
 projects[drupal][version] = 6.20
 ; Contrib projects 
 
+projects[ajax_trigger][subdir] = "contrib"
+projects[ajax_trigger][version] = "1.0-beta1"
+
 projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "1.6"
 
 projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][version] = "2.4"
+
+projects[button_field][subdir] = "contrib"
+projects[button_field][version] = "1.0-beta2"
 
 projects[cck][subdir] = "contrib"
 projects[cck][version] = "2.8"
@@ -42,6 +48,9 @@ projects[feeds][version] = "1.0-beta10"
 
 projects[feeds_xpathparser][subdir] = "contrib"
 projects[feeds_xpathparser][version] = "1.10"
+
+projects[l10n_update][subdir] = "contrib"
+projects[l10n_update][version] = "1.0-alpha3"
 
 projects[job_scheduler][subdir] = "contrib"
 projects[job_scheduler][version] = "1.0-beta3"
