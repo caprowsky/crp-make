@@ -25,6 +25,9 @@ projects[button_field][version] = "1.0-beta2"
 projects[cck][subdir] = "contrib"
 projects[cck][version] = "2.9"
 
+projects[conditional_field][subdir] = "contrib"
+projects[conditional_field][version] = "2.0-beta2" 
+
 projects[computed_field][subdir] = "contrib"
 projects[computed_field][version] = "1.0-beta4"
 
@@ -107,7 +110,7 @@ projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.4"
 
 projects[panels][subdir] = "contrib"
-projects[panels][version] = "3.8"
+projects[panels][version] = "3.9"
 
 projects[print][subdir] = "contrib"
 projects[print][version] = "1.12"
@@ -197,3 +200,37 @@ libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jqu
 libraries[jquery_ui][directory_name] = "jquery.ui"
 libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
 
+; performance
+
+projects[varnish][subdir] = "contrib"
+projects[varnish][version] = "1.x-dev"
+
+projects[memcache][subdir] = "contrib"
+projects[memcache][version] = "1.7"
+
+; custum modules and theme
+
+projects[it_taxcode][type] = "module"
+projects[it_taxcode][subdir] = "developer"
+projects[it_taxcode][download][type] = "git"
+projects[it_taxcode][download][url] = "http://github.com/pionono/it_taxcode.git"
+
+projects[it_vatnumber][type] = "module"
+projects[it_vatnumber][subdir] = "developer"
+projects[it_vatnumber][download][type] = "git"
+projects[it_vatnumber][download][url] = "http://github.com/pionono/it_vatnumber.git"
+
+projects[locazione][type] = "module"
+projects[locazione][subdir] = "developer"
+projects[locazione][download][type] = "git"
+projects[locazione][download][url] = "http://github.com/pionono/locazione.git"
+
+projects[luoghi][type] = "module"
+projects[luoghi][subdir] = "developer"
+projects[luoghi][download][type] = "git"
+projects[luoghi][download][url] = "http://github.com/pionono/luoghi.git"
+
+libraries[crp_tema][download][type] = "git"
+libraries[crp_tema][download][url] = "http://github.com/pionono/crp_tema.git"
+libraries[crp_tema][destination] = "themes/fusion"
+libraries[crp_tema][directory_name] = "crp"
