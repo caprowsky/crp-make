@@ -230,6 +230,12 @@ projects[luoghi][subdir] = "developer"
 projects[luoghi][download][type] = "git"
 projects[luoghi][download][url] = "http://github.com/pionono/luoghi.git"
 
+projects[titoliform][type] = "module"
+projects[titoliform][subdir] = "developer"
+projects[titoliform][download][type] = "git"
+projects[titoliform][download][url] = "http://github.com/pionono/titoliform.git"
+
+
 libraries[crp_tema][download][type] = "git"
 libraries[crp_tema][download][url] = "http://github.com/pionono/crp_tema.git"
 libraries[crp_tema][destination] = "themes/fusion"
