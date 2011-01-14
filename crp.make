@@ -234,3 +234,9 @@ libraries[crp_tema][download][type] = "git"
 libraries[crp_tema][download][url] = "http://github.com/pionono/crp_tema.git"
 libraries[crp_tema][destination] = "themes/fusion"
 libraries[crp_tema][directory_name] = "crp"
+
+
+; Test modules
+
+projects[nagios][subdir] = "contrib"
+projects[nagios][version] = "1.x-dev"
