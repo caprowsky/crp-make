@@ -25,8 +25,8 @@ projects[button_field][version] = "1.0-beta2"
 projects[cck][subdir] = "contrib"
 projects[cck][version] = "2.9"
 
-projects[conditional_field][subdir] = "contrib"
-projects[conditional_field][version] = "2.0-beta2" 
+projects[conditional_fields][subdir] = "contrib"
+projects[conditional_fields][version] = "2.0-beta2" 
 
 projects[computed_field][subdir] = "contrib"
 projects[computed_field][version] = "1.0-beta4"
