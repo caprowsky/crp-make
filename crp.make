@@ -109,6 +109,9 @@ projects[multistep][version] = "1.5"
 projects[pageroute][subdir] = "contrib"
 projects[pageroute][version] = "1.0-beta5"
 
+projects[page_title][subdir] = "contrib"
+projects[page_title][version] = "2.3"
+
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.4"
 
