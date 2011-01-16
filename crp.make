@@ -19,6 +19,9 @@ projects[auto_nodetitle][version] = "1.2"
 projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][version] = "2.4"
 
+projects[block_titlelink][subdir] = "contrib"
+projects[block_titlelink][version] = "1.6"
+
 projects[button_field][subdir] = "contrib"
 projects[button_field][version] = "1.0-beta2"
 
