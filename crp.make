@@ -55,6 +55,9 @@ projects[data][version] = "1.0-alpha11"
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.7"
 
+projects[dependent_fields][subdir] = "contrib"
+projects[dependent_fields][version] = "1.x-dev"
+
 projects[diff][subdir] = "contrib"
 projects[diff][version] = "2.1"
 
